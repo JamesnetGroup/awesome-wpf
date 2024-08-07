@@ -1,5 +1,3 @@
-네, 이해했습니다. WPF Tutorial 시리즈와 WPF 프로젝트 튜토리얼을 포함하여 전체 내용을 다시 작성하겠습니다.
-
 # Awesome WPF [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 [![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)](https://dotnet.microsoft.com/)
