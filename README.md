@@ -103,7 +103,7 @@ Microsoft MVP인 이재웅과 구양 부부의 컨텐츠를 중심으로 이 문
 ## WPF 관련 서적
 
 ### 2023
-- **"WPF Inside Out"** by 이재웅 MVP, 구양 - [링크](https://localhost:7111/article/6)
+- **"WPF Inside Out"** by 이재웅, 구양 - [링크](https://localhost:7111/article/6)
 
 ### 2021
 - **"The Development Of Windows Presentation Foundation: Basics And Must-Know Information: Wpf Development On Linux"** by Gregg Mthimunye
