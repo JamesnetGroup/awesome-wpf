@@ -1,4 +1,4 @@
-# Awesome WPF [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome WPF [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![English](https://img.shields.io/badge/Language-English-blue.svg)](README.md) [![中文](https://img.shields.io/badge/Language-中文-red.svg)](README.zh-CN.md) [![한국어](https://img.shields.io/badge/Language-한국어-green.svg)](README.ko.md)
 
 [![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)](https://dotnet.microsoft.com/)
 [![WPF](https://img.shields.io/badge/WPF-512BD4?style=flat-square&logo=windows&logoColor=white)](https://github.com/dotnet/wpf)
@@ -16,18 +16,57 @@ Microsoft MVP인 이재웅과 구양 부부의 컨텐츠를 중심으로 이 문
 ## 목차
 
 - [채널](#채널)
-- [WPF 튜토리얼 시리즈](#wpf-튜토리얼-시리즈)
 - [컨퍼런스](#컨퍼런스)
 - [라이브러리 및 도구](#라이브러리-및-도구)
 - [WPF를 사용하는 회사](#wpf를-사용하는-회사)
 - [WPF IDE 프로그램](#wpf-ide-프로그램)
 - [WPF 관련 GitHub 레포지토리](#wpf-관련-github-레포지토리)
+- [WPF 튜토리얼 시리즈](#wpf-튜토리얼-시리즈)
 - [WPF 관련 서적](#wpf-관련-서적)
 
 ## 채널
 - [빌리빌리](https://space.bilibili.com/688707261) - 小李趣味多
 - [유튜브](https://youtube.com/@jamesnset214) - Jamesnet
 - [웹사이트](https://jamesnet.dev)
+
+## 컨퍼런스
+- [Jamesnet 세미나](https://docs.microsoft.com/en-us/dotnet/desktop/wpf/) - 대한민국 서울, 중국 장수성 난징
+- [BMW 밋업](https://wpf-tutorial.com/) - 대한민국 서울
+
+## 라이브러리 및 도구
+- [Jamesnet.Wpf](https://github.com/jamesnet214/jamesnetwpf)
+- [XamlDesign.Wpf](https://github.com/xamldesignwpf)
+- [Anatomy Analyzer](https://github.com/anatomyanalyzer)
+
+## WPF를 사용하는 회사
+- Microsoft
+- Autodesk
+- SAP
+
+## WPF IDE 프로그램
+- Visual Studio
+- Visual Studio Code
+- Blend for Visual Studio
+- JetBrains Rider
+- ~~Expression Blend (개발이 중단됨)~~
+- SharpDevelop (더 이상 활발히 개발되지 않음)
+
+## WPF 관련 GitHub 레포지토리
+- [League of legends](https://github.com/jamesnet214/leagueoflegends)
+- [Jamesnet.Wpf](https://github.com/jamesnet214/jamesnetwpf)
+- [xamldesign.wpf](https://github.com/jamesnet214/xamldesignwpf)
+- [Anatomy Analyzer](https://github.com/jamesnet214/anatomyanalyzer)
+- [Dev Flow](https://github.com/jamesnet214/devflow)
+- [WPF Explorer](https://github.com/jamesnet214/wpf-explorer)
+- [Reflector](https://github.com/jamesnet214/reflector)
+- [ICommander](https://github.com/jamesnet214/colorpicker)
+- [ColorPicker](https://github.com/jamesnet214/colorpicker)
+- [ThemeSwitch](https://github.com/vickyqu115/themeswitch)
+- [Riot Play Button](https://github.com/vickyqu115/riotplaybutton)
+- [Magic Navigation](https://github.com/vickyqu115/navigationbar)
+- [Riot Slider](https://github.com/vickyqu115/riotslider)
+- [Smart Date](https://github.com/vickyqu115/smartdate)
+- [Cupertino TreeView](https://github.com/vickyqu115/cupertino-treeview)
 
 ## WPF 튜토리얼 시리즈
 
@@ -77,45 +116,6 @@ Cupertino TreeView는 WPF의 기본 TreeView 컨트롤을 재구성하고 확장
 - [x] [구현에 대한 상세 아티클 (jamesnet.dev)](https://jamesnet.dev/article/122)
 - [x] [YouTube 튜토리얼 (영어)](https://www.youtube.com/watch?v=lZeEhYUYuiM)
 - [x] [BiliBili 튜토리얼 (중국어)](https://www.bilibili.com/video/BV1xh4y1N7f2/)
-
-## 컨퍼런스
-- [Jamesnet 세미나](https://docs.microsoft.com/en-us/dotnet/desktop/wpf/) - 대한민국 서울, 중국 장수성 난징
-- [BMW 밋업](https://wpf-tutorial.com/) - 대한민국 서울
-
-## 라이브러리 및 도구
-- [Jamesnet.Wpf](https://github.com/jamesnet214/jamesnetwpf)
-- [XamlDesign.Wpf](https://github.com/xamldesignwpf)
-- [Anatomy Analyzer](https://github.com/anatomyanalyzer)
-
-## WPF를 사용하는 회사
-- Microsoft
-- Autodesk
-- SAP
-
-## WPF IDE 프로그램
-- Visual Studio
-- Visual Studio Code
-- Blend for Visual Studio
-- JetBrains Rider
-- ~~Expression Blend (개발이 중단됨)~~
-- SharpDevelop (더 이상 활발히 개발되지 않음)
-
-## WPF 관련 GitHub 레포지토리
-- [League of legends](https://github.com/jamesnet214/leagueoflegends)
-- [Jamesnet.Wpf](https://github.com/jamesnet214/jamesnetwpf)
-- [xamldesign.wpf](https://github.com/jamesnet214/xamldesignwpf)
-- [Anatomy Analyzer](https://github.com/jamesnet214/anatomyanalyzer)
-- [Dev Flow](https://github.com/jamesnet214/devflow)
-- [WPF Explorer](https://github.com/jamesnet214/wpf-explorer)
-- [Reflector](https://github.com/jamesnet214/reflector)
-- [ICommander](https://github.com/jamesnet214/colorpicker)
-- [ColorPicker](https://github.com/jamesnet214/colorpicker)
-- [ThemeSwitch](https://github.com/vickyqu115/themeswitch)
-- [Riot Play Button](https://github.com/vickyqu115/riotplaybutton)
-- [Magic Navigation](https://github.com/vickyqu115/navigationbar)
-- [Riot Slider](https://github.com/vickyqu115/riotslider)
-- [Smart Date](https://github.com/vickyqu115/smartdate)
-- [Cupertino TreeView](https://github.com/vickyqu115/cupertino-treeview)
 
 ## WPF 관련 서적
 
