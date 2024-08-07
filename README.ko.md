@@ -31,35 +31,52 @@ Microsoft MVP인 이재웅과 구양 부부의 컨텐츠를 중심으로 이 문
 
 ## WPF 튜토리얼 시리즈
 
-#### 1. Theme Switch
-- [아티클](https://jamesnet.dev/article/118)
-- [YouTube](https://www.youtube.com/watch?v=htrEwHCyExg)
-- [Bilibili](https://www.bilibili.com/video/BV1Eu4y1f7JF/)
-- [GitHub](https://github.com/vickyqu115/themeswitch)
+### 1. Theme Switch
+ThemeSwitch는 WPF ToggleButton을 기반으로 구축된 CustomControl로, WPF 애플리케이션에서 테마 전환을 위한 매력적인 시각적 요소를 제공하도록 설계되었습니다. 주간과 야간 테마 사이의 부드러운 전환을 위한 애니메이션을 특징으로 하며, 고급 WPF 기술과 사용자 정의 컨트롤 개발을 보여줍니다.
+- [x] [GitHub](https://github.com/vickyqu115/themeswitch)
+- [x] [YouTube 튜토리얼 (English)](https://bit.ly/3uBkFlQ)
+- [x] [BiliBili 튜토리얼 (Chinese)](https://bit.ly/3uHFe08)
+- [x] [구현에 대한 상세 아티클 (jamesnet.dev)](https://jamesnet.dev/article/109)
+- [x] [CodeProject](https://www.codeproject.com/Articles/5372268/Use-WPF-to-Create-a-Day-and-Night-Theme-Switch-But)
 
-#### 2. Riot Play Button
-- [아티클](https://jamesnet.dev/article/119)
-- [YouTube](https://www.youtube.com/watch?v=NAwOtw2Y3LA)
-- [Bilibili](https://www.bilibili.com/video/BV1Mw411y7SY/)
-- [GitHub](https://github.com/vickyqu115/riotplaybutton)
+### 2. Riot Play Button
+RiotPlayButton은 리그 오브 레전드 게임 클라이언트의 PLAY 버튼을 재현한 사용자 정의 WPF 컨트롤입니다. 사용자 정의 형태 생성, 그라데이션 브러시, 애니메이션, 효율적인 XAML 디자인 등 고급 WPF 기술을 보여줍니다.
+- [x] [GitHub](https://github.com/vickyqu115/riotplaybutton)
+- [x] [YouTube 튜토리얼 (영어, 한글자막)](https://bit.ly/40YoVIo)
+- [x] [BiliBili 튜토리얼 (중국어)](https://bit.ly/49L6dXu)
+- [x] [구현에 대한 상세 아티클 (jamesnet.dev)](https://jamesnet.dev/article/51)
+- [x] [CodeProject](https://www.codeproject.com/Articles/5373396/Creating-a-League-of-Legends-Inspired-Play-Button)  
 
-#### 3. Magic Navigation
-- [아티클](https://jamesnet.dev/article/120)
-- [YouTube](https://www.youtube.com/watch?v=TG2WI_JX3Rg)
-- [Bilibili](https://www.bilibili.com/video/BV1xm4y1n7nv/)
-- [GitHub](https://github.com/vickyqu115/navigationbar)
+### 3. Magic Navigation
+NavigationBar는 모바일에서 영감을 받은 내비게이션 인터페이스를 만드는 고급 기술을 보여주는 사용자 정의 WPF 컨트롤입니다. 복잡한 UI 동작과 애니메이션을 구현하는 데 있어 WPF의 강력함과 유연성을 보여주며, 특히 CustomControl 개발과 효율적인 애니메이션 설계에 중점을 둡니다.
+- [x] [GitHub](https://github.com/vickyqu115/navigationbar)
+- [x] [YouTube 튜토리얼 (영어, 한글자막)](https://bit.ly/3TVeRhF)
+- [x] [BiliBili 튜토리얼 (중국어)](https://bit.ly/3UvaOsl)
+- [x] [구현에 대한 상세 아티클 (jamesnet.dev)](https://jamesnet.dev/article/edit/110)
+- [x] [CodeProject](https://www.codeproject.com/Articles/5375482/Customizing-ListBox-for-a-Smooth-Animated-Navigati)
 
-#### 4. Riot Slider
-- [아티클](https://jamesnet.dev/article/121)
-- [YouTube](https://www.youtube.com/watch?v=OXahK2OGLig)
-- [Bilibili](https://www.bilibili.com/video/BV1kT4y1Z7uz/)
-- [GitHub](https://github.com/vickyqu115/riotslider)
+### 4. Riot Slider
+RiotSlider는 WPF 컨트롤 개발의 고급 기술을 보여주는 사용자 정의 WPF Slider 컨트롤입니다. 표준 WPF Slider를 CustomControl로 재구현하여, PART_ 재사용을 위해 원본 WPF 오픈 소스 구현을 활용하고 WPF 컨트롤의 설계 패턴을 보여줍니다.
+- [x] [GitHub](https://github.com/vickyqu115/riotslider)
+- [x] [YouTube 튜토리얼 (영어)](https://bit.ly/4dpsr3m)
+- [x] [BiliBili 튜토리얼 (중국어)](https://bit.ly/3QiZvkJ)
+- [x] [구현에 대한 상세 아티클 (jamesnet.dev)](https://jamesnet.dev/article/111)
+- [x] [CodeProject](https://bit.ly/3JyibsM)
 
-#### 5. Cupertino TreeView
-- [아티클](https://jamesnet.dev/article/122)
-- [YouTube](https://www.youtube.com/watch?v=lZeEhYUYuiM)
-- [Bilibili](https://www.bilibili.com/video/BV1xh4y1N7f2/)
-- [GitHub](https://github.com/vickyqu115/cupertino-treeview)
+### 5. Smart Date
+SmartDate는 전통적인 DatePicker를 새롭게 구상한 사용자 정의 WPF 컨트롤입니다. 기본 제공되는 DatePicker를 상속받는 대신 Control 클래스부터 처음부터 구축하여, 현대적이고 유연하며 쉽게 사용자 정의할 수 있는 대안을 제공합니다. 이 프로젝트는 고급 WPF 기술과 컨트롤 개발 사례를 보여줍니다.
+- [x] [GitHub](https://github.com/vickyqu115/smartdate)
+- [x] [YouTube 튜토리얼 (영어)](https://bit.ly/4c8uGr3)
+- [x] [BiliBili 튜토리얼 (중국어)](https://bit.ly/3xOeyMJ)
+- [x] [구현에 대한 상세 아티클 (jamesnet.dev)](https://jamesnet.dev/article/43)
+- [x] [CodeProject](https://bit.ly/4du4hVD)
+
+### 6. Cupertino TreeView
+Cupertino TreeView는 WPF의 기본 TreeView 컨트롤을 재구성하고 확장한 고급 CustomControl입니다. ItemsControl을 상속받은 독특한 구조를 활용하여 복잡한 계층 데이터를 효과적으로 표현하며, MVVM 패턴을 적용하여 뛰어난 사용자 경험과 개발자 친화적인 구조를 제공합니다.
+- [x] [GitHub](https://github.com/vickyqu115/cupertino-treeview)
+- [x] [구현에 대한 상세 아티클 (jamesnet.dev)](https://jamesnet.dev/article/122)
+- [x] [YouTube 튜토리얼 (영어)](https://www.youtube.com/watch?v=lZeEhYUYuiM)
+- [x] [BiliBili 튜토리얼 (중국어)](https://www.bilibili.com/video/BV1xh4y1N7f2/)
 
 ## 컨퍼런스
 - [Jamesnet 세미나](https://docs.microsoft.com/en-us/dotnet/desktop/wpf/) - 대한민국 서울, 중국 장수성 난징
@@ -103,7 +120,7 @@ Microsoft MVP인 이재웅과 구양 부부의 컨텐츠를 중심으로 이 문
 ## WPF 관련 서적
 
 ### 2023
-- **"WPF Inside Out"** by 이재웅 MVP, 구양 - [링크](https://localhost:7111/article/6)
+- **"WPF Inside Out"** by 이재웅, 구양 - [링크](https://localhost:7111/article/6)
 
 ### 2021
 - **"The Development Of Windows Presentation Foundation: Basics And Must-Know Information: Wpf Development On Linux"** by Gregg Mthimunye
