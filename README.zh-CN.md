@@ -37,8 +37,8 @@
 
 ## 库和工具
 - [Jamesnet.Wpf](https://github.com/jamesnet214/jamesnetwpf)
-- [XamlDesign.Wpf](https://github.com/xamldesignwpf)
-- [Anatomy Analyzer](https://github.com/anatomyanalyzer)
+- [XamlDesign.Wpf](https://github.com/jamesnet214/xamldesignwpf)
+- [Anatomy Analyzer](https://github.com/jamesnet214/anatomyanalyzer)
 
 ## WPF相关GitHub仓库
 - [League of legends](https://github.com/jamesnet214/leagueoflegends)
