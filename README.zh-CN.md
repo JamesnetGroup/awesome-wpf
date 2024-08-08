@@ -20,6 +20,8 @@
 - [库和工具](#库和工具)
 - [使用WPF的公司](#使用wpf的公司)
 - [WPF IDE程序](#wpf-ide程序)
+- [使用WPF构建的产品](#使用wpf构建的产品)
+- [动画作品](#动画作品)
 - [WPF相关GitHub仓库](#wpf相关github仓库)
 - [WPF教程系列](#wpf教程系列)
 - [WPF相关书籍](#wpf相关书籍)
@@ -51,6 +53,18 @@
 - ~~Expression Blend (已停止开发)~~
 - SharpDevelop (不再积极开发)
 
+## 使用WPF构建的产品
+- [x] Visual Studio - 微软的集成开发环境 (IDE)
+- [x] Microsoft Office - 某些组件和插件
+- [x] AutoCAD - Autodesk的计算机辅助设计(CAD)软件
+- [x] Blend for Visual Studio - WPF用户界面设计工具
+- [x] SQL Server Management Studio - Microsoft SQL Server管理工具
+- [x] Windows Performance Analyzer - Windows评估和部署工具包的一部分
+- [x] Vortex - Bethesda游戏的模组管理器
+- [x] SourceTree - Atlassian的Git客户端
+
+## 动画作品
+- [x] 英超联赛结果可视化工具 - 2023-24赛季英超联赛排名可视化 [YouTube](https://www.youtube.com/watch?v=1ajqAHkIIXU) | [哔哩哔哩](https://www.bilibili.com/video/BV1w4421X7v3)
 ## WPF相关GitHub仓库
 - [League of legends](https://github.com/jamesnet214/leagueoflegends)
 - [Jamesnet.Wpf](https://github.com/jamesnet214/jamesnetwpf)
