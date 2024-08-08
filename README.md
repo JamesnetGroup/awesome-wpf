@@ -20,9 +20,9 @@ We aim to provide useful information for WPF developers of all levels, from begi
 - [Libraries and Tools](#libraries-and-tools)
 - [Companies Using WPF](#companies-using-wpf)
 - [WPF IDE Programs](#wpf-ide-programs)
+- [WPF-related GitHub Repositories](#wpf-related-github-repositories)
 - [Products Built with WPF](#products-built-with-wpf)
 - [Animation Works](#animation-works)
-- [WPF-related GitHub Repositories](#wpf-related-github-repositories)
 - [WPF Tutorial Series](#wpf-tutorial-series)
 - [WPF-related Books](#wpf-related-books)
 
@@ -39,6 +39,23 @@ We aim to provide useful information for WPF developers of all levels, from begi
 - [Jamesnet.Wpf](https://github.com/jamesnet214/jamesnetwpf)
 - [XamlDesign.Wpf](https://github.com/xamldesignwpf)
 - [Anatomy Analyzer](https://github.com/anatomyanalyzer)
+
+## WPF-related GitHub Repositories
+- [League of legends](https://github.com/jamesnet214/leagueoflegends)
+- [Jamesnet.Wpf](https://github.com/jamesnet214/jamesnetwpf)
+- [xamldesign.wpf](https://github.com/jamesnet214/xamldesignwpf)
+- [Anatomy Analyzer](https://github.com/jamesnet214/anatomyanalyzer)
+- [Dev Flow](https://github.com/jamesnet214/devflow)
+- [WPF Explorer](https://github.com/jamesnet214/wpf-explorer)
+- [Reflector](https://github.com/jamesnet214/reflector)
+- [ICommander](https://github.com/jamesnet214/colorpicker)
+- [ColorPicker](https://github.com/jamesnet214/colorpicker)
+- [ThemeSwitch](https://github.com/vickyqu115/themeswitch)
+- [Riot Play Button](https://github.com/vickyqu115/riotplaybutton)
+- [Magic Navigation](https://github.com/vickyqu115/navigationbar)
+- [Riot Slider](https://github.com/vickyqu115/riotslider)
+- [Smart Date](https://github.com/vickyqu115/smartdate)
+- [Cupertino TreeView](https://github.com/vickyqu115/cupertino-treeview)
 
 ## Companies Using WPF
 - Microsoft
@@ -67,23 +84,6 @@ We aim to provide useful information for WPF developers of all levels, from begi
 ## Animation Works
 
 - [x] Premier League Results Visualizer - 2023-24 Premier League season standings visualization [Youtube](https://www.youtube.com/watch?v=1ajqAHkIIXU) | [BiliBili](https://www.bilibili.com/video/BV1w4421X7v3)
-
-## WPF-related GitHub Repositories
-- [League of legends](https://github.com/jamesnet214/leagueoflegends)
-- [Jamesnet.Wpf](https://github.com/jamesnet214/jamesnetwpf)
-- [xamldesign.wpf](https://github.com/jamesnet214/xamldesignwpf)
-- [Anatomy Analyzer](https://github.com/jamesnet214/anatomyanalyzer)
-- [Dev Flow](https://github.com/jamesnet214/devflow)
-- [WPF Explorer](https://github.com/jamesnet214/wpf-explorer)
-- [Reflector](https://github.com/jamesnet214/reflector)
-- [ICommander](https://github.com/jamesnet214/colorpicker)
-- [ColorPicker](https://github.com/jamesnet214/colorpicker)
-- [ThemeSwitch](https://github.com/vickyqu115/themeswitch)
-- [Riot Play Button](https://github.com/vickyqu115/riotplaybutton)
-- [Magic Navigation](https://github.com/vickyqu115/navigationbar)
-- [Riot Slider](https://github.com/vickyqu115/riotslider)
-- [Smart Date](https://github.com/vickyqu115/smartdate)
-- [Cupertino TreeView](https://github.com/vickyqu115/cupertino-treeview)
 
 ## WPF Tutorial Series
 
