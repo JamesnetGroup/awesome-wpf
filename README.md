@@ -44,9 +44,6 @@ We aim to provide useful information for WPF developers of all levels, from begi
 - Microsoft
 - Autodesk
 - SAP
-- Uno
-- Avalonia
-- Userware
 
 ## WPF IDE Programs
 - Visual Studio
