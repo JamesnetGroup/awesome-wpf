@@ -3,9 +3,9 @@
 [![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)](https://dotnet.microsoft.com/)
 [![WPF](https://img.shields.io/badge/WPF-512BD4?style=flat-square&logo=windows&logoColor=white)](https://github.com/dotnet/wpf)
 
-[![Stars](https://img.shields.io/github/stars/awesome-wpf/awesome-wpf.svg)](https://github.com/awesome-wpf/awesome-wpf/stargazers)
-[![Forks](https://img.shields.io/github/forks/awesome-wpf/awesome-wpf.svg)](https://github.com/awesome-wpf/awesome-wpf/network/members)
-[![Issues](https://img.shields.io/github/issues/awesome-wpf/awesome-wpf.svg)](https://github.com/awesome-wpf/awesome-wpf/issues)
+[![Stars](https://img.shields.io/github/stars/jamesnet214/awesome-wpf.svg)](https://github.com/jamesnet214/awesome-wpf/stargazers)
+[![Forks](https://img.shields.io/github/forks/jamesnet214/awesome-wpf.svg)](https://github.com/jamesnet214/awesome-wpf/network/members)
+[![Issues](https://img.shields.io/github/issues/jamesnet214/awesome-wpf.svg)](https://github.com/jamesnet214/awesome-wpf/issues)
 
 이 레포지토리는 WPF(Windows Presentation Foundation) 관련 학습 자료, 라이브러리, 도구, 그리고 기타 유용한 리소스들을 모아놓은 큐레이션 리스트입니다.
 
