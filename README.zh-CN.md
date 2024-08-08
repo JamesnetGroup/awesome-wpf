@@ -40,6 +40,23 @@
 - [XamlDesign.Wpf](https://github.com/xamldesignwpf)
 - [Anatomy Analyzer](https://github.com/anatomyanalyzer)
 
+## WPF相关GitHub仓库
+- [League of legends](https://github.com/jamesnet214/leagueoflegends)
+- [Jamesnet.Wpf](https://github.com/jamesnet214/jamesnetwpf)
+- [xamldesign.wpf](https://github.com/jamesnet214/xamldesignwpf)
+- [Anatomy Analyzer](https://github.com/jamesnet214/anatomyanalyzer)
+- [Dev Flow](https://github.com/jamesnet214/devflow)
+- [WPF Explorer](https://github.com/jamesnet214/wpf-explorer)
+- [Reflector](https://github.com/jamesnet214/reflector)
+- [ICommander](https://github.com/jamesnet214/colorpicker)
+- [ColorPicker](https://github.com/jamesnet214/colorpicker)
+- [ThemeSwitch](https://github.com/vickyqu115/themeswitch)
+- [Riot Play Button](https://github.com/vickyqu115/riotplaybutton)
+- [Magic Navigation](https://github.com/vickyqu115/navigationbar)
+- [Riot Slider](https://github.com/vickyqu115/riotslider)
+- [Smart Date](https://github.com/vickyqu115/smartdate)
+- [Cupertino TreeView](https://github.com/vickyqu115/cupertino-treeview)
+
 ## 使用WPF的公司
 - Microsoft
 - Autodesk
@@ -65,22 +82,6 @@
 
 ## 动画作品
 - [x] 英超联赛结果可视化工具 - 2023-24赛季英超联赛排名可视化 [YouTube](https://www.youtube.com/watch?v=1ajqAHkIIXU) | [哔哩哔哩](https://www.bilibili.com/video/BV1w4421X7v3)
-## WPF相关GitHub仓库
-- [League of legends](https://github.com/jamesnet214/leagueoflegends)
-- [Jamesnet.Wpf](https://github.com/jamesnet214/jamesnetwpf)
-- [xamldesign.wpf](https://github.com/jamesnet214/xamldesignwpf)
-- [Anatomy Analyzer](https://github.com/jamesnet214/anatomyanalyzer)
-- [Dev Flow](https://github.com/jamesnet214/devflow)
-- [WPF Explorer](https://github.com/jamesnet214/wpf-explorer)
-- [Reflector](https://github.com/jamesnet214/reflector)
-- [ICommander](https://github.com/jamesnet214/colorpicker)
-- [ColorPicker](https://github.com/jamesnet214/colorpicker)
-- [ThemeSwitch](https://github.com/vickyqu115/themeswitch)
-- [Riot Play Button](https://github.com/vickyqu115/riotplaybutton)
-- [Magic Navigation](https://github.com/vickyqu115/navigationbar)
-- [Riot Slider](https://github.com/vickyqu115/riotslider)
-- [Smart Date](https://github.com/vickyqu115/smartdate)
-- [Cupertino TreeView](https://github.com/vickyqu115/cupertino-treeview)
 
 ## WPF教程系列
 
