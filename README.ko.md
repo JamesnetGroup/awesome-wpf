@@ -20,6 +20,8 @@ Microsoft MVP인 이재웅과 구양 부부의 컨텐츠를 중심으로 이 문
 - [라이브러리 및 도구](#라이브러리-및-도구)
 - [WPF를 사용하는 회사](#wpf를-사용하는-회사)
 - [WPF IDE 프로그램](#wpf-ide-프로그램)
+- [WPF로 만들어진 제품들](#wpf로-만들어진-제품들)
+- [애니메이션 작품](#애니메이션-작품)
 - [WPF 관련 GitHub 레포지토리](#wpf-관련-github-레포지토리)
 - [WPF 튜토리얼 시리즈](#wpf-튜토리얼-시리즈)
 - [WPF 관련 서적](#wpf-관련-서적)
@@ -51,6 +53,18 @@ Microsoft MVP인 이재웅과 구양 부부의 컨텐츠를 중심으로 이 문
 - ~~Expression Blend (개발이 중단됨)~~
 - SharpDevelop (더 이상 활발히 개발되지 않음)
 
+## WPF로 만들어진 제품들
+- [x] Visual Studio - Microsoft의 통합 개발 환경 (IDE)
+- [x] Microsoft Office - 특정 구성 요소 및 애드인
+- [x] AutoCAD - Autodesk의 컴퓨터 지원 설계(CAD) 소프트웨어
+- [x] Blend for Visual Studio - WPF 사용자 인터페이스를 위한 디자인 도구
+- [x] SQL Server Management Studio - Microsoft SQL Server 관리 도구
+- [x] Windows Performance Analyzer - Windows 평가 및 배포 키트의 일부
+- [x] Vortex - Bethesda 게임용 모드 관리자
+- [x] SourceTree - Atlassian의 Git 클라이언트
+
+## 애니메이션 작품
+- [x] 프리미어 리그 결과 시각화 도구 - 2023-24 프리미어 리그 시즌 순위 시각화 [유튜브](https://www.youtube.com/watch?v=1ajqAHkIIXU) | [빌리빌리](https://www.bilibili.com/video/BV1w4421X7v3)
 ## WPF 관련 GitHub 레포지토리
 - [League of legends](https://github.com/jamesnet214/leagueoflegends)
 - [Jamesnet.Wpf](https://github.com/jamesnet214/jamesnetwpf)
