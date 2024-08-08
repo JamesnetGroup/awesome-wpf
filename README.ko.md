@@ -37,8 +37,8 @@ Microsoft MVP인 이재웅과 구양 부부의 컨텐츠를 중심으로 이 문
 
 ## 라이브러리 및 도구
 - [Jamesnet.Wpf](https://github.com/jamesnet214/jamesnetwpf)
-- [XamlDesign.Wpf](https://github.com/xamldesignwpf)
-- [Anatomy Analyzer](https://github.com/anatomyanalyzer)
+- [XamlDesign.Wpf](https://github.com/jamesnet214/xamldesignwpf)
+- [Anatomy Analyzer](https://github.com/jamesnet214/anatomyanalyzer)
 
 ## WPF 관련 GitHub 레포지토리
 - [League of legends](https://github.com/jamesnet214/leagueoflegends)
