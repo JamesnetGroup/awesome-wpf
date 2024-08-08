@@ -7,11 +7,11 @@
 [![Forks](https://img.shields.io/github/forks/jamesnet214/awesome-wpf.svg)](https://github.com/jamesnet214/awesome-wpf/network/members)
 [![Issues](https://img.shields.io/github/issues/jamesnet214/awesome-wpf.svg)](https://github.com/jamesnet214/awesome-wpf/issues)
 
-这个仓库是一个精心策划的与WPF（Windows Presentation Foundation）相关的学习材料、库、工具和其他有用资源的列表。
+这个仓库是一个关于WPF(Windows Presentation Foundation)的精选列表,收集了WPF相关的学习资料、库、工具以及其他有用的资源。
 
-本文档主要由Microsoft MVP李在雄和曲阳维护。我们的目标是通过这个列表帮助WPF开发者轻松找到必要的信息，并跟上最新趋势。
+这个文档主要由Microsoft MVP李在雄和具洋夫妇的内容维护。我们的目标是通过这个列表,帮助WPF开发者轻松找到所需的信息,了解最新趋势。
 
-我们旨在为各个水平的WPF开发者提供有用的信息，从初学者到经验丰富的专业人士。基于我们的经验和专业知识，我们希望通过这个项目为WPF社区的成长和发展做出贡献。
+我们希望为各个级别的WPF开发者提供有用的信息,从初学者到资深开发者。基于我们的经验和专业知识,我们希望通过这个项目为WPF社区的成长和发展做出贡献。
 
 ## 目录
 
