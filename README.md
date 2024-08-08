@@ -20,6 +20,8 @@ We aim to provide useful information for WPF developers of all levels, from begi
 - [Libraries and Tools](#libraries-and-tools)
 - [Companies Using WPF](#companies-using-wpf)
 - [WPF IDE Programs](#wpf-ide-programs)
+- [Products Built with WPF](#products-built-with-wpf)
+- [Animation Works](#animation-works)
 - [WPF-related GitHub Repositories](#wpf-related-github-repositories)
 - [WPF Tutorial Series](#wpf-tutorial-series)
 - [WPF-related Books](#wpf-related-books)
@@ -50,6 +52,21 @@ We aim to provide useful information for WPF developers of all levels, from begi
 - JetBrains Rider
 - ~~Expression Blend (development discontinued)~~
 - SharpDevelop (no longer actively developed)
+
+## Products Built with WPF
+
+- [x] Visual Studio - Microsoft's Integrated Development Environment (IDE)
+- [x] Microsoft Office - Certain components and add-ins
+- [x] AutoCAD - Computer-Aided Design (CAD) software by Autodesk
+- [x] Blend for Visual Studio - Design tool for WPF user interfaces
+- [x] SQL Server Management Studio - Management tool for Microsoft SQL Server
+- [x] Windows Performance Analyzer - Part of Windows Assessment and Deployment Kit
+- [x] Vortex - Mod manager for Bethesda games
+- [x] SourceTree - Git client by Atlassian
+
+## Animation Works
+
+- [x] Premier League Results Visualizer - 2023-24 Premier League season standings visualization [Youtube](https://www.youtube.com/watch?v=1ajqAHkIIXU) | [BiliBili](https://www.bilibili.com/video/BV1w4421X7v3)
 
 ## WPF-related GitHub Repositories
 - [League of legends](https://github.com/jamesnet214/leagueoflegends)
