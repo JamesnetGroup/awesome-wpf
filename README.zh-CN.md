@@ -20,9 +20,9 @@
 - [库和工具](#库和工具)
 - [使用WPF的公司](#使用wpf的公司)
 - [WPF IDE程序](#wpf-ide程序)
+- [WPF相关GitHub仓库](#wpf相关github仓库)
 - [使用WPF构建的产品](#使用wpf构建的产品)
 - [动画作品](#动画作品)
-- [WPF相关GitHub仓库](#wpf相关github仓库)
 - [WPF教程系列](#wpf教程系列)
 - [WPF相关书籍](#wpf相关书籍)
 
