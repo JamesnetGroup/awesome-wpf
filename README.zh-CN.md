@@ -29,6 +29,15 @@
 - [YouTube](https://youtube.com/@jamesnset214) - Jamesnet
 - [网站](https://jamesnet.dev)
 
+## 会议
+- [Jamesnet研讨会](https://docs.microsoft.com/en-us/dotnet/desktop/wpf/) - 韩国首尔；中国江苏省南京市
+- [BMW聚会](https://wpf-tutorial.com/) - 韩国首尔
+
+## 库和工具
+- [Jamesnet.Wpf](https://github.com/jamesnet214/jamesnetwpf)
+- [XamlDesign.Wpf](https://github.com/xamldesignwpf)
+- [Anatomy Analyzer](https://github.com/anatomyanalyzer)
+
 ## 使用WPF的公司
 - Microsoft
 - Autodesk
@@ -108,19 +117,11 @@ Cupertino TreeView是一个高级CustomControl，重新构想和扩展了WPF的�
 - [x] [YouTube教程（英文）](https://www.youtube.com/watch?v=lZeEhYUYuiM)
 - [x] [哔哩哔哩教程（中文）](https://www.bilibili.com/video/BV1xh4y1N7f2/)
 
-## 会议
-- [Jamesnet研讨会](https://docs.microsoft.com/en-us/dotnet/desktop/wpf/) - 韩国首尔；中国江苏省南京市
-- [BMW聚会](https://wpf-tutorial.com/) - 韩国首尔
-
-## 库和工具
-- [Jamesnet.Wpf](https://github.com/jamesnet214/jamesnetwpf)
-- [XamlDesign.Wpf](https://github.com/xamldesignwpf)
-- [Anatomy Analyzer](https://github.com/anatomyanalyzer)
 
 ## WPF相关书籍
 
 ### 2023
-- **"WPF Inside Out"** 作者：李在雄，曲阳 - [链接](https://localhost:7111/article/6)
+- **"WPF Inside Out"** 作者：李在雄，瞿扬 - [链接](https://localhost:7111/article/6)
 
 ### 2021
 - **"Windows Presentation Foundation的开发：基础和必知信息：在Linux上开发WPF"** 作者：Gregg Mthimunye
@@ -166,4 +167,29 @@ Cupertino TreeView是一个高级CustomControl，重新构想和扩展了WPF的�
 - **"Pro WPF in VB 2010：.NET 4中的Windows Presentation Foundation"** 作者：Matthew MacDonald
 
 ### 2008
-- **"Visual Studio 2008中的W
+- **"WPF in Action with Visual Studio 2008: Covers Visual Studio 2008 Service Pack 1 and .NET 3.5 Service Pack 1!"** by Arlen S. Feldman, Maxx Daymon
+- **"Sams teach yourself WPF in 24 hours"** by Robert Eisenberg
+- **"Pro WPF with VB 2008: Windows Presentation Foundation with .NET 3.5"** by Matthew MacDonald
+- **"Pro WPF in C# 2008: Windows Presentation Foundation with .NET 3.5"** by Matthew MacDonald
+- **"WPF recipes in C# 2008"** by Sam Noble
+- **"Foundation Expression Blend 2"** by Victor Gaudioso
+
+### 2007
+- **"Programming WPF: Building Windows UI with Windows Presentation Foundation"** by Ian Griffith, Chris Sells
+- **"Professional WPF Programming: .NET Development with the Windows Presentation Foundation"** by Michael Meyers, Shawn Livermore, Scott Van Vliet, Chris Andrade
+- **"Practical WPF Graphics Programming: Advanced .NET Graphics Development with the Windows Presentation Foundation Jack Xu"** by Jack Xu
+
+### 2006
+- **"Windows Presentation Foundation Unleashed"** by Adam Nathan
+- **"Applications = Code + Markup: A Guide to the Microsoft Windows Presentation Foundation"** by Charles Petzold
+
+## 贡献
+如果你想为这个 Awesome 列表做出贡献,请参考 [CONTRIBUTING.md](CONTRIBUTING.md)。
+
+## 许可证
+[![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/) 
+此处列出的所有内容均遵循各个项目的许可证。
+
+## 联系方式
+* 网站:https://jamesnet.dev  
+* 电子邮件:james@jamesnet.dev,vickyqu115@hotmail.com
