@@ -3,9 +3,9 @@
 [![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)](https://dotnet.microsoft.com/)
 [![WPF](https://img.shields.io/badge/WPF-512BD4?style=flat-square&logo=windows&logoColor=white)](https://github.com/dotnet/wpf)
 
-[![Stars](https://img.shields.io/github/stars/awesome-wpf/awesome-wpf.svg)](https://github.com/awesome-wpf/awesome-wpf/stargazers)
-[![Forks](https://img.shields.io/github/forks/awesome-wpf/awesome-wpf.svg)](https://github.com/awesome-wpf/awesome-wpf/network/members)
-[![Issues](https://img.shields.io/github/issues/awesome-wpf/awesome-wpf.svg)](https://github.com/awesome-wpf/awesome-wpf/issues)
+[![Stars](https://img.shields.io/github/stars/jamesnet214/awesome-wpf.svg)](https://github.com/jamesnet214/awesome-wpf/stargazers)
+[![Forks](https://img.shields.io/github/forks/jamesnet214/awesome-wpf.svg)](https://github.com/jamesnet214/awesome-wpf/network/members)
+[![Issues](https://img.shields.io/github/issues/jamesnet214/awesome-wpf.svg)](https://github.com/jamesnet214/awesome-wpf/issues)
 
 This repository is a curated list of learning materials, libraries, tools, and other useful resources related to WPF (Windows Presentation Foundation).
 
