@@ -40,6 +40,23 @@ Microsoft MVP인 이재웅과 구양 부부의 컨텐츠를 중심으로 이 문
 - [XamlDesign.Wpf](https://github.com/xamldesignwpf)
 - [Anatomy Analyzer](https://github.com/anatomyanalyzer)
 
+## WPF 관련 GitHub 레포지토리
+- [League of legends](https://github.com/jamesnet214/leagueoflegends)
+- [Jamesnet.Wpf](https://github.com/jamesnet214/jamesnetwpf)
+- [xamldesign.wpf](https://github.com/jamesnet214/xamldesignwpf)
+- [Anatomy Analyzer](https://github.com/jamesnet214/anatomyanalyzer)
+- [Dev Flow](https://github.com/jamesnet214/devflow)
+- [WPF Explorer](https://github.com/jamesnet214/wpf-explorer)
+- [Reflector](https://github.com/jamesnet214/reflector)
+- [ICommander](https://github.com/jamesnet214/colorpicker)
+- [ColorPicker](https://github.com/jamesnet214/colorpicker)
+- [ThemeSwitch](https://github.com/vickyqu115/themeswitch)
+- [Riot Play Button](https://github.com/vickyqu115/riotplaybutton)
+- [Magic Navigation](https://github.com/vickyqu115/navigationbar)
+- [Riot Slider](https://github.com/vickyqu115/riotslider)
+- [Smart Date](https://github.com/vickyqu115/smartdate)
+- [Cupertino TreeView](https://github.com/vickyqu115/cupertino-treeview)
+  
 ## WPF를 사용하는 회사
 - Microsoft
 - Autodesk
@@ -65,22 +82,6 @@ Microsoft MVP인 이재웅과 구양 부부의 컨텐츠를 중심으로 이 문
 
 ## 애니메이션 작품
 - [x] 프리미어 리그 결과 시각화 도구 - 2023-24 프리미어 리그 시즌 순위 시각화 [유튜브](https://www.youtube.com/watch?v=1ajqAHkIIXU) | [빌리빌리](https://www.bilibili.com/video/BV1w4421X7v3)
-## WPF 관련 GitHub 레포지토리
-- [League of legends](https://github.com/jamesnet214/leagueoflegends)
-- [Jamesnet.Wpf](https://github.com/jamesnet214/jamesnetwpf)
-- [xamldesign.wpf](https://github.com/jamesnet214/xamldesignwpf)
-- [Anatomy Analyzer](https://github.com/jamesnet214/anatomyanalyzer)
-- [Dev Flow](https://github.com/jamesnet214/devflow)
-- [WPF Explorer](https://github.com/jamesnet214/wpf-explorer)
-- [Reflector](https://github.com/jamesnet214/reflector)
-- [ICommander](https://github.com/jamesnet214/colorpicker)
-- [ColorPicker](https://github.com/jamesnet214/colorpicker)
-- [ThemeSwitch](https://github.com/vickyqu115/themeswitch)
-- [Riot Play Button](https://github.com/vickyqu115/riotplaybutton)
-- [Magic Navigation](https://github.com/vickyqu115/navigationbar)
-- [Riot Slider](https://github.com/vickyqu115/riotslider)
-- [Smart Date](https://github.com/vickyqu115/smartdate)
-- [Cupertino TreeView](https://github.com/vickyqu115/cupertino-treeview)
 
 ## WPF 튜토리얼 시리즈
 
