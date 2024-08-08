@@ -29,6 +29,15 @@ We aim to provide useful information for WPF developers of all levels, from begi
 - [YouTube](https://youtube.com/@jamesnset214) - Jamesnet
 - [Website](https://jamesnet.dev)
 
+## Conferences
+- [Jamesnet Seminar](https://docs.microsoft.com/en-us/dotnet/desktop/wpf/) - Seoul, South Korea; Nanjing, Jiangsu Province, China
+- [BMW Meetup](https://wpf-tutorial.com/) - Seoul, South Korea
+
+## Libraries and Tools
+- [Jamesnet.Wpf](https://github.com/jamesnet214/jamesnetwpf)
+- [XamlDesign.Wpf](https://github.com/xamldesignwpf)
+- [Anatomy Analyzer](https://github.com/anatomyanalyzer)
+
 ## Companies Using WPF
 - Microsoft
 - Autodesk
@@ -107,15 +116,6 @@ Cupertino TreeView is an advanced CustomControl that reimagines and extends WPF'
 - [x] [Detailed Article on Implementation (jamesnet.dev)](https://jamesnet.dev/article/122)
 - [x] [YouTube Tutorial (English)](https://www.youtube.com/watch?v=lZeEhYUYuiM)
 - [x] [BiliBili Tutorial (Chinese)](https://www.bilibili.com/video/BV1xh4y1N7f2/)
-
-## Conferences
-- [Jamesnet Seminar](https://docs.microsoft.com/en-us/dotnet/desktop/wpf/) - Seoul, South Korea; Nanjing, Jiangsu Province, China
-- [BMW Meetup](https://wpf-tutorial.com/) - Seoul, South Korea
-
-## Libraries and Tools
-- [Jamesnet.Wpf](https://github.com/jamesnet214/jamesnetwpf)
-- [XamlDesign.Wpf](https://github.com/xamldesignwpf)
-- [Anatomy Analyzer](https://github.com/anatomyanalyzer)
 
 ## WPF-related Books
 
