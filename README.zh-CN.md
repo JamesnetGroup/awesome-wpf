@@ -1,4 +1,4 @@
-# Awesome WPF [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![English](https://img.shields.io/badge/Language-English-blue.svg)](README.md) [![中文](https://img.shields.io/badge/Language-中文-red.svg)](README.zh-CN.md) [![한국어](https://img.shields.io/badge/Language-한국어-green.svg)](README.ko.md)
+# Awesome WPF [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![English](https://img.shields.io/badge/Language-docs-blue.svg)](README.md) [![中文](https://img.shields.io/badge/docs-中文-red.svg)](README.zh-CN.md) [![한국어](https://img.shields.io/badge/docs-한국어-green.svg)](README.ko.md)
 
 [![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)](https://dotnet.microsoft.com/)
 [![WPF](https://img.shields.io/badge/WPF-512BD4?style=flat-square&logo=windows&logoColor=white)](https://github.com/dotnet/wpf)
