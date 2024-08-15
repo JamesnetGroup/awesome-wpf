@@ -50,12 +50,12 @@ We aim to provide useful information for WPF developers of all levels, from begi
 - [Reflector](https://github.com/jamesnet214/reflector)
 - [ICommander](https://github.com/jamesnet214/colorpicker)
 - [ColorPicker](https://github.com/jamesnet214/colorpicker)
-- [ThemeSwitch](https://github.com/vickyqu115/themeswitch)
-- [Riot Play Button](https://github.com/vickyqu115/riotplaybutton)
-- [Magic Navigation](https://github.com/vickyqu115/navigationbar)
-- [Riot Slider](https://github.com/vickyqu115/riotslider)
-- [Smart Date](https://github.com/vickyqu115/smartdate)
-- [Cupertino TreeView](https://github.com/vickyqu115/cupertino-treeview)
+- [ThemeSwitch](https://github.com/jamesnetgroup/themeswitch)
+- [Riot Play Button](https://github.com/jamesnetgroup/riotplaybutton)
+- [Magic Navigation](https://github.com/jamesnetgroup/navigationbar)
+- [Riot Slider](https://github.com/jamesnetgroup/riotslider)
+- [Smart Date](https://github.com/jamesnetgroup/smartdate)
+- [Cupertino TreeView](https://github.com/jamesnetgroup/cupertino-treeview)
 
 ## Companies Using WPF
 - Microsoft
